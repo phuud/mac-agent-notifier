@@ -1,6 +1,6 @@
 cask "mac-agent-notifier" do
   version "0.1.0"
-  sha256 :no_check
+  sha256 "d36c08045de8c27e9d70298c72dd1c5723a69768b0ca34b76a19008aaf4674a6"
 
   url "https://github.com/phuud/mac-agent-notifier/releases/download/v#{version}/Agent-Notifier-#{version}.dmg"
   name "Agent Notifier"
